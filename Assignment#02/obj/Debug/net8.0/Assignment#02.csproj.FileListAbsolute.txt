@@ -1,0 +1,15 @@
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\bin\Debug\net8.0\Assignment#02.exe
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\bin\Debug\net8.0\Assignment#02.deps.json
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\bin\Debug\net8.0\Assignment#02.runtimeconfig.json
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\bin\Debug\net8.0\Assignment#02.dll
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\bin\Debug\net8.0\Assignment#02.pdb
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\obj\Debug\net8.0\Assignment#02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\obj\Debug\net8.0\Assignment#02.AssemblyInfoInputs.cache
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\obj\Debug\net8.0\Assignment#02.AssemblyInfo.cs
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\obj\Debug\net8.0\Assignment#02.csproj.CoreCompileInputs.cache
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\obj\Debug\net8.0\Assignment#02.sourcelink.json
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\obj\Debug\net8.0\Assignment#02.dll
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\obj\Debug\net8.0\refint\Assignment#02.dll
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\obj\Debug\net8.0\Assignment#02.pdb
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\obj\Debug\net8.0\Assignment#02.genruntimeconfig.cache
+C:\Users\AA COMPUTER\source\repos\Assignment#02\Assignment#02\obj\Debug\net8.0\ref\Assignment#02.dll
